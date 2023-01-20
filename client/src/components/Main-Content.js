@@ -1,6 +1,6 @@
 function MainContent() {
     return (
-        <div className="main-content">
+        <main className="main-content">
         <h1>Chelsea Starting XI</h1>
             <ul>
                 <li>Kepa Arrizabalaga</li>
@@ -23,7 +23,7 @@ function MainContent() {
             <ul>
                 <li>Kai Havertz</li>
             </ul>
-        </div>
+        </main>
     )
 }
 
